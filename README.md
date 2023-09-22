@@ -1,2 +1,2 @@
 # Gamelab Project GIT
-## Silakan memasukkan text di GitHub yang berisi username git kalian.
+## Silakan memasukkan di README.md GitHub nama dan username git kalian.
