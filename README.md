@@ -6,3 +6,4 @@
 3. Fadhlina Shifa Hanum | fadhlinashifa
 4. Hamni Kamal Rahmatika | hamnikamal
 5. Thahirudin | thahirudin
+6. Raja Satria Agung Pratama Banjarnahor | RajaSatriaBanjarnahor
