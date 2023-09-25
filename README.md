@@ -5,3 +5,4 @@
 2. Egi Alfarizy Syafna | Giezys
 3. Fadhlina Shifa Hanum | fadhlinashifa
 4. Hamni Kamal Rahmatika | hamnikamal
+5. Thahirudin | thahirudin
