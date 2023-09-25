@@ -9,3 +9,4 @@
 6. Raja Satria Agung Pratama Banjarnahor | RajaSatriaBanjarnahor
 7. Marselinus Heris Adyatma | MarselinusHerisAdyatma
 8. Yulianti Nawangsari | yulinss
+9. Winaldi Ken Aulia | winaldi2506
