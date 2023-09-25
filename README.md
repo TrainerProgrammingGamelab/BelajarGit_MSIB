@@ -1,4 +1,5 @@
 # Gamelab Project GIT
+
 ## Silakan memasukkan di README.md GitHub nama dan username git kalian.
 
 1. Dini Naylul Izzah | dininay
@@ -9,3 +10,4 @@
 6. Raja Satria Agung Pratama Banjarnahor | RajaSatriaBanjarnahor
 7. Marselinus Heris Adyatma | MarselinusHerisAdyatma
 8. Yulianti Nawangsari | yulinss
+9. Noviyanto Putra Ramadhan | NoviyantoPutraR
