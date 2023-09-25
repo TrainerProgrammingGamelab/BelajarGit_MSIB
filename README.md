@@ -8,3 +8,4 @@
 5. Thahirudin | thahirudin
 6. Raja Satria Agung Pratama Banjarnahor | RajaSatriaBanjarnahor
 7. Marselinus Heris Adyatma | MarselinusHerisAdyatma
+8. Yulianti Nawangsari | yulinss
