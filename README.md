@@ -16,9 +16,12 @@
 12. Putri Jasmine Aliffiyah | PutriJsmne
 13. Tyas Nafara Andini | TyasNafaraAndini
 <<<<<<< HEAD
-14. Ulfa Nadia | UlfaNadia 
+14. 
 15. Shofiyah | shofyhh
 16. Tasya Nurul Laily | tsyanrl
 17. Maulana habib firmansyah | Habib975
 18. Oktaviani Ariyaningsih | OktavianiAriyaningsih
 19. miftakhul huda | miftakhul huda
+20. Muhammad Fajri | syamsyiralam
+21. Ulfa Nadia | UlfaNadia
+
