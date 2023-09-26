@@ -22,5 +22,5 @@
 18. miftakhul huda | miftakhul huda
 19. Muhammad Fajri | syamsyiralam
 20. Ulfa Nadia | UlfaNadia
+6. Raja Satria Agung Pratama Banjarnahor | RajaSatriaBanjarnahor
 21. 
-
