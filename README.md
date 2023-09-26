@@ -23,4 +23,4 @@
 19. Muhammad Fajri | syamsyiralam
 20. Ulfa Nadia | UlfaNadia
 21. Muhammad Najib RB | NajibDani
-
+22. Raja Satria Agung Pratama Banjarnahor | RajaSatriaBanjarnahor
