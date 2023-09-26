@@ -15,13 +15,12 @@
 11. Rhena Dwi Puspa | rhenadwipuspa
 12. Putri Jasmine Aliffiyah | PutriJsmne
 13. Tyas Nafara Andini | TyasNafaraAndini
-<<<<<<< HEAD
-14. 
-15. Shofiyah | shofyhh
-16. Tasya Nurul Laily | tsyanrl
-17. Maulana habib firmansyah | Habib975
-18. Oktaviani Ariyaningsih | OktavianiAriyaningsih
-19. miftakhul huda | miftakhul huda
-20. Muhammad Fajri | syamsyiralam
-21. Ulfa Nadia | UlfaNadia
+14. Shofiyah | shofyhh
+15. Tasya Nurul Laily | tsyanrl
+16. Maulana habib firmansyah | Habib975
+17. Oktaviani Ariyaningsih | OktavianiAriyaningsih
+18. miftakhul huda | miftakhul huda
+19. Muhammad Fajri | syamsyiralam
+20. Ulfa Nadia | UlfaNadia
+21. 
 
